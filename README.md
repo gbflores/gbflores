@@ -1,14 +1,7 @@
 ### Hello World, I'm Guilherme 😁 Dev Full Stack 🖥️
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebflores@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devguilherme/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551992029800)
-
 <a href="https://github.com/gbflores/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gbflores&count_private=true&hide=contribs,stars&show_icons=true&include_all_commits&rank_icon=github&count_private" />
-</a>
-<a href="https://github.com/gbflores/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbflores&layout=donut&langs_count=8&card_width=320" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=gbflores&count_private=true&hide=contribs,stars&show_icons=true&include_all_commits&rank_icon=github&count_private" />
 </a>
 
 ### Techs that I use:
@@ -26,3 +19,10 @@
     <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+### Send a message:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebflores@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devguilherme/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551992029800)
+
