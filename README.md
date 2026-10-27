@@ -52,6 +52,7 @@ Full story at [guiflores.dev](https://guiflores.dev).
 | --- | --- | --- |
 | **[Patrão do Parlamento](https://www.patraodoparlamento.com.br)** | Public-data platform about Brazilian congress members: votes, elections, spending and shareable ballot notes | Next.js · TypeScript · Upstash Redis · Vercel |
 | **[X DeleTweets](https://github.com/gbflores/x-deletweets)** · [site](https://gbflores.github.io/x-deletweets/) | Open-source tool to bulk delete your posts, replies, reposts and likes on X, right in the browser | JavaScript · Userscript |
+| **[Postaí](https://github.com/gbflores/postai)** | Write once, publish to X, Threads, LinkedIn, Facebook and Instagram, with a confirmation link per network. Runs locally, no paid APIs, with a CLI and Claude Code skill | Node.js · TypeScript · Playwright · Hono |
 | **[Math Practice App](https://github.com/gbflores/math-app)** · [demo](https://math-app-psi.vercel.app) | Gamified mental-math practice for kids, with short sessions and instant feedback | Next.js · TypeScript · Tailwind |
 | **[Omarchy Local Projects](https://github.com/gbflores/omarchy-local-projects)** | Desktop bar widget listing local dev servers (native and Docker) with CPU/memory and one-click kill | QML · Linux |
 | **[Transportes Rodoflex](https://transportesrodoflex.com.br/)** | Full redesign and custom admin panel for a nationwide freight carrier | Laravel · Web design · CI/CD |
